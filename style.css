@@ -1,0 +1,28 @@
+body{
+    font-family: Verdana;
+    text-align: center;
+}
+#myBt{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 30em;
+    
+}
+#myLable{
+    font-size: 3em;
+}
+
+.bs{
+    background-color: rgb(199, 155, 101);
+    color: white;
+    cursor: pointer;
+}
+.button{
+    background-color: rgb(199, 155, 101);
+    color: white;
+    cursor: pointer;
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 30em;
+    
+}
